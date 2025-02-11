@@ -15,8 +15,8 @@ que quiso engañar a sus usuarios con un Bot que hablara con ellos.
 Para decidir esto tenemos que tomar a consideración la serie de acontecimientos que
 sucedieron antes de esta acción final, por ejemplo, la empresa responsable de Ashley
 
+** falta revision de esta tarea**
 
-falta la revision de esta tarea
 madison seria la responsable de esta acción, ya que decidió engañar a la gran mayoría de
 sus usuarios o a casi todos y todo para poder generar más ganancias, también son
 responsables de el hackeo ya que no pudieron invertir en una mejor seguridad para que no
